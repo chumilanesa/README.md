@@ -3,7 +3,6 @@
 My name is Gloria "Chumi" Gonzalez and I’m a software engineer & UX designer. I was raised in Paraguay and am currently based in NYC. My work experiences cover a wide array of skills including marketing, project management, graphic/UX design, full stack, and mobile development. 
 
 I’m passionate about bringing ideas to life, bridging the gap between design and engineering in tech, women/immigrant rights, & creating positive experiences for people. 
-
 <br />
 
 ### 📚 Skills
@@ -12,19 +11,16 @@ I’m passionate about bringing ideas to life, bridging the gap between design a
 **Design:** Figma, Procreate, Adobe Illustrator, Adobe Photoshop, Adobe InDesign, Sketch, Miro
 
 **Languages:** Fluent in Spanish & English, Conversational in Guarani & Portuguese.
-
 <br />
 
 ### 🦾 Current Endeavors
 These days I am studying algorithms, updating my portfolio and continuing work on The Brave App and Glow In The Blue App.
-
 <br />
 
 ### 🧠 Past Experience
 **[The Brave App](https://chumigonzalez.com/the-brave-app):** a communication and resource platform for a non-profit that supports young immigrant women in NYC. <br />
 **[Glow In The Blue](https://chumigonzalez.com/glow-in-the-blue):** a mindfulness & productivity tracker. <br />
 **[Nebula Bakery](https://chumigonzalez.com/nebula-bakery):** an e-commerce website for baked goods.
-
 <br />
 
 ### 💌 Connect with me
